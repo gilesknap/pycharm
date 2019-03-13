@@ -1,21 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.c;*.cpp;*.h;*.hprof;*.pyc;*.pyo;*.rbc;*.txt;*.vdb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".*" type="Bash" />
-      <mapping pattern="removedirs" type="Bash" />
-      <mapping pattern="svndiff" type="Bash" />
-      <mapping pattern="resetCSS" type="PLAIN_TEXT" />
-      <mapping pattern="saveWorkspace" type="PLAIN_TEXT" />
-      <mapping pattern="py2" type="PLAIN_TEXT" />
-      <mapping pattern="py6" type="PLAIN_TEXT" />
-      <mapping pattern="setWS" type="PLAIN_TEXT" />
-      <mapping pattern="scratch" type="PLAIN_TEXT" />
-      <mapping pattern="INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="psub" type="PLAIN_TEXT" />
+      <mapping pattern="beamlines*" type="Bash" />
+      <mapping pattern="rcutils" type="Bash" />
+      <mapping pattern="kk" type="Bash" />
+      <mapping pattern="bashrc" type="Bash" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="find-pv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
