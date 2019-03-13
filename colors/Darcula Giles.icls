@@ -1,0 +1,78 @@
+<scheme name="Darcula Giles" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-02-04T12:53:24</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-03-13T14:08:59</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+  </colors>
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff240f" />
+        <option name="ERROR_STRIPE_COLOR" value="ff3f1f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="991c99" />
+        <option name="ERROR_STRIPE_COLOR" value="991c99" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="a488a3" />
+        <option name="ERROR_STRIPE_COLOR" value="a488a3" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="a488a3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="409ff" />
+        <option name="ERROR_STRIPE_COLOR" value="409ff" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="409ff" />
+        <option name="ERROR_STRIPE_COLOR" value="409ff" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bfa222" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="b7ff32" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="b69700" />
+        <option name="ERROR_STRIPE_COLOR" value="b69700" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="fe06ff" />
+        <option name="ERROR_STRIPE_COLOR" value="fe06ff" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="76ff" />
+        <option name="ERROR_STRIPE_COLOR" value="76ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
