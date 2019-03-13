@@ -1,0 +1,183 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/dls_sw/prod/tools/RHEL6-x86_64/defaults/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="255-9-34-255,,,204-255-204-255,,,34-255-37-255,,,193-255-179-255,,,183-255-50-255,,,153-28-153-255,,,113-12-110-255,,,254-6-255-255,,,109-40-115-255,,,182-151-0-255,,,229-34-15-255,,,255-63-31-255,,,255-36-15-255,,,0-118-255-255,,,4-9-255-255,,,51-63-183-255,,,29-29-87-255,,,3-6-164-255,,,164-136-163-255,,,164-38-43-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5455665" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="SQLite" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="KEYMAP" value="highlighted&#10;high&#10;repla&#10;caret&#10;cursor" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="MTTabsHeight" value="34" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="h5&#10;hdf&#10;vds&#10;enum&#10;PyGOb" />
+    <property name="PLUGIN_FILTER" value="theme&#10;makefile&#10;c++&#10;bash" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.NoScratch" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="PythonUnitTestRunner.Splitter.Proportion" value="0.3156733" />
+    <property name="PythonUnitTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="PythonUnitTestRunnerSupport.scrollToSource" value="true" />
+    <property name="PythonUnitTestRunnerSupport.sortTestsAlphabetically" value="false" />
+    <property name="PythonUnitTestRunnerSupport.sortTestsByDuration" value="false" />
+    <property name="SettingsSearchHistory" value="todo&#10;comment&#10;font&#10;test&#10;aster" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TextEditorWithPreviewLayout" value="Editor only" />
+    <property name="TrendingPluginsSearchHistory" value="terminal" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.splitter" value="0.3" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="146" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="dir.diff.panel.divider.location" value="554" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.162" value="17" />
+    <property name="evlsprt3.163" value="17" />
+    <property name="evlsprt3.172" value="13" />
+    <property name="evlsprt3.173" value="11" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="export.settings.path" value="$USER_HOME$/PycharmProjects/settings_backup1.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/odin/vds-gen&#10;/home/hgv27681/odin/h5py&#10;/home/hgv27681/odin/pymalcolm&#10;/home/hgv27681/R3.14.12.7/support/pmac&#10;/home/hgv27681&#10;/home/hgv27681/odin/pymalcolm/venv27/bin/python&#10;/dls_sw/work/common/python/dls_winprocserv&#10;/dls_sw/dasc/ispyb2/local/cgi-bin/archive.py&#10;/home/hgv27681/odin/venv2/bin/python&#10;/scratch/odin/ADOdin&#10;/scratch/odin/odin-control&#10;/home/hgv27681/odin/pymalcolm/malcolm&#10;/scratch/odin/malcolm/pymalcolm/malcolm&#10;/home/hgv27681/odin/excalibur-detector&#10;/home/hgv27681/odin&#10;/scratch/odin/venv/bin/python&#10;/scratch/odin/excalibur-detector&#10;/scratch/odin/malcolm/pymalcolm&#10;/dls_sw/apps/python/anaconda/1.7.0/64/envs/python3/bin/python3&#10;/home/hgv27681/bin/beamlines2&#10;/home/hgv27681/github/scratch-blocks&#10;/dls_sw/work/tools/RHEL6-x86_64/other_tools/ss2builder.py&#10;/dls_sw/work/tools/RHEL6-x86_64/other_tools&#10;/home/hgv27681/R3.14.12.3/tools/dls_test_i16_diff/dls_test_i16_diff&#10;/home/hgv27681/bin/python&#10;/home/hgv27681/bin/python/find-pv.py&#10;/home/hgv27681/.PyCharm2017.3/config/colors/Dracula2.icls&#10;/home/hgv27681/github/jetbrains/Dracula.icls&#10;/home/hgv27681/virtualenvs/gphotos3/bin/python&#10;/home/hgv27681/github/gphotos-sync" />
+    <property name="file.gist.reindex.count" value="211170" />
+    <property name="fileTypeChangedCounter" value="25" />
+    <property name="ignore.ide.sigint.ignored.message" value="true" />
+    <property name="installation.uid" value="232fd8ca-1715-42d3-abf3-0fbc71a3b565" />
+    <property name="lastTip" value="64" />
+    <property name="log.debug.categories" value="" />
+    <property name="null.splitter" value="0.3" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="selected.color.option.type" value="PY.LINE_COMMENT" />
+    <property name="settings.code.style.selected.tab.Python" value="Wrapping and Braces" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/dls_sw/apps/python3/3.5.1/bin/python3" value="false" />
+        <entry key="/dls_sw/prod/tools/RHEL6-x86_64/Python/2-7-3/prefix/bin/python" value="false" />
+        <entry key="/dls_sw/prod/tools/RHEL6-x86_64/Python/2-7-3/prefix/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/KidsTimer/venv3/bin/python" value="true" />
+        <entry key="$USER_HOME$/odin/pymalcolm/venv27/bin/python" value="true" />
+        <entry key="$USER_HOME$/odin/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/dls-python/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos2/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos3/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualenvs/pmacSim/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/pymalcolm/bin/python" value="true" />
+        <entry key="/scratch/odin/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/dls_sw/apps/python3/3.5.1/bin/python3" value="false" />
+        <entry key="/dls_sw/prod/tools/RHEL6-x86_64/Python/2-7-3/prefix/bin/python" value="false" />
+        <entry key="/dls_sw/prod/tools/RHEL6-x86_64/Python/2-7-3/prefix/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/KidsTimer/venv3/bin/python" value="false" />
+        <entry key="$USER_HOME$/odin/pymalcolm/venv27/bin/python" value="true" />
+        <entry key="$USER_HOME$/odin/venv2/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualenvs/dls-python/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos2/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualenvs/gphotos3/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/pmacSim/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/pymalcolm/bin/python" value="true" />
+        <entry key="/scratch/odin/venv/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/dls_sw/prod/tools/RHEL6-x86_64/Python/2-7-3/prefix/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/KidsTimer/venv3/bin/python" value="false" />
+        <entry key="$USER_HOME$/odin/pymalcolm/venv27/bin/python" value="false" />
+        <entry key="$USER_HOME$/odin/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/pymalcolm/bin/python" value="false" />
+        <entry key="/scratch/odin/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
