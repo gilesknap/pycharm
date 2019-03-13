@@ -1,5 +1,5 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="EditorLangPopupMenu">
+  <action id="EditorTabPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl context_menu" />
   </action>
 </keymap>
