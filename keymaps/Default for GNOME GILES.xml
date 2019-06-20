@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for GNOME GILES" parent="Default for GNOME">
+  <action id="EditorSplitLine" />
   <action id="EditorTabPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl context_menu" />
   </action>
