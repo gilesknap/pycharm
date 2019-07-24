@@ -6,7 +6,11 @@
       <mapping pattern="kk" type="Bash" />
       <mapping pattern="bashrc" type="Bash" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="find-pv" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping pattern="pmacgather.py" type="Python" />
     </extensionMap>
   </component>
 </application>
