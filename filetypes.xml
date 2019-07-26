@@ -1,6 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="beamlines*" type="Bash" />
+      <mapping pattern="rcutils" type="Bash" />
+      <mapping pattern="kk" type="Bash" />
+      <mapping pattern="bashrc" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
@@ -18,10 +22,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="bashrc" type="Bash" />
-      <mapping pattern="beamlines*" type="Bash" />
-      <mapping pattern="kk" type="Bash" />
-      <mapping pattern="rcutils" type="Bash" />
     </extensionMap>
   </component>
 </application>
