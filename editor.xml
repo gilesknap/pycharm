@@ -9,4 +9,11 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" pattern="\b(todo|fixme)\b.*">
+      <option name="FOREGROUND" value="bfa222" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="b7ff32" />
+    </pattern>
+  </component>
 </application>
